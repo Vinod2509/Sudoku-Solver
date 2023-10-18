@@ -3,7 +3,7 @@ function rowCheck()
 {
     console.log("Checking rows")
     const row=[0,9,18,27,36,45,54,63,72];
-    for(let i=0;i<9;i++)
+    for(let i=0;i<9;i++)//sdjfkskdds
     {
         const map=[];
         let k=0;
